@@ -1,5 +1,5 @@
 # Bridging Pen Testing & Governance  
-### A Risk Assessment for Artemus Gas Inc.
+### A Risk Assessment for Artemis Gas Inc.
 
 **Capstone Project — 2025**  
 By: **Toni Gardner — GRC Analyst | Security+**
